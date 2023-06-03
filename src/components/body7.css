@@ -1,0 +1,33 @@
+.body7{
+    padding: 50px;
+    font-family: "poppins";
+}
+.head1 {
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.head2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: grey;
+
+}
+.discover-div {
+    display: flex;
+}
+.right-side {
+    margin-left: 300px;
+}
+#points{
+    font-size: 20px;
+    margin:50px;
+}
+#discover-button{
+    font-size: 20px;
+    background-color: purple;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+    color: white;
+}
